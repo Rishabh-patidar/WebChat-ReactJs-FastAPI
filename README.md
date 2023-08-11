@@ -1,10 +1,10 @@
 # WebChat-ReactJs-FastAPI
 
-##Chat application using ReactJS and FastAPI
+## Chat application using ReactJS and FastAPI
 
-##run backend
+## run backend
 activate virtual environment : \venv\Scripts\activate
 uvicorn main:app
-##run frontend
+## run frontend
 npm install
 npm run server
